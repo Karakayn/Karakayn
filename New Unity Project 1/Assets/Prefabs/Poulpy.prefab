@@ -71,7 +71,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ab7256e2f8fe0d45ae56d9275a5b7d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 10, y: 10}
+  speed: {x: 5, y: 5}
   direction: {x: -1, y: 0}
 --- !u!114 &11400002
 MonoBehaviour:
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shotPrefab: {fileID: 400000, guid: fc4011d6fcba800479d89dbe59a80c02, type: 2}
-  shootingRate: .25
+  shootingRate: .75
 --- !u!114 &11400008
 MonoBehaviour:
   m_ObjectHideFlags: 1
